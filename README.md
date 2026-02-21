@@ -181,15 +181,16 @@ https://abcd-1234.ngrok-free.app
 
 ---
 
-### Step 3: Update Frontend API URL
+### Step 3: Update Frontend API URL (Optional)
 
 In `index.html`, update fetch:
 
 ```js
 fetch("https://abcd-1234.ngrok-free.app/api/chat", { ... })
 ```
+Or keep it as "http://localhost:3000/api/chat" (Not suggested for production)
 
-Now **anyone can chat with your local LLM from anywhere** 🌎
+Now #### **anyone can chat with your local LLM from anywhere** 🌎
 
 ---
 
