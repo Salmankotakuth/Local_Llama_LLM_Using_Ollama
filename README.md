@@ -27,6 +27,8 @@ LLM_Local/
 └── README.md
 ```
 
+![Alt text](Workflow_Architecture.png)
+
 ---
 
 ## 🧠 Prerequisites
