@@ -138,6 +138,8 @@ Simply open:
 frontend/index.html
 ```
 
+![Alt text](Application_Frontend.jpeg)
+
 in your browser **OR** serve it through backend (recommended).
 
 ---
